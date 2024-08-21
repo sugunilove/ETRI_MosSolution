@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+jsp_myslate24_avatary0805_01_Anim.uasset filter=lfs diff=lfs merge=lfs -text
+Bernice_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+Face_Archetype.uasset filter=lfs diff=lfs merge=lfs -text
+sm_jsp_identity_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
